@@ -36,3 +36,5 @@ Giriş sayfasında __Siparişleri Listele__ butonuna bastığınızda karşını
 
 Güncellemek istediğiniz siparişin yanındaki __Güncelle__ butonuna bastığınızda karşınıza yukarıdaki sayfa gelecektir.
 Bu siparişte istediğiniz değişikliği yaptıktan sonra __Sipariş Güncelle__ butonuna basarak güncellemeyi kaydedebilirsiniz.
+
+Siparişler ekranında ilgili siparişin yanındaki __Sil__ butonuna basıp o siparişi sistemden silebilirsiniz.
